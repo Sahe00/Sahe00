@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Sahe00</h1>
+<h1 align="center">Hey there 👋, I'm @Sahe00</h1>
 <h3 align="center">A passionate engineering student from Finland</h3>
 
 - 👀 I'm interested in programming and everything tech
