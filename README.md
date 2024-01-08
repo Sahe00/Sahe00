@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **heikkinensanteri@gmail.com**
 
-- ⚡ Fun fact I can also paint 🎨
+- ⚡ Fun fact: I can also paint 🎨
 
 
 
