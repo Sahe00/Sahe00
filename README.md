@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-stack development, React, TypeScript, JavaScript and more!**
 
-- 🤝 ~~I’m looking for Summer trainee positions~~
+- 🤝 I’m open to recruiting! Feel free to reach out to me!
 
 - 📫 How to reach me: **heikkinensanteri@gmail.com**
 
