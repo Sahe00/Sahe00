@@ -7,7 +7,7 @@
 
 - 🤝 I’m open to recruiting! Feel free to reach out to me!
 
-- 📫 How to reach me: **heikkinensanteri@gmail.com**
+- 📫 Contact me here: **heikkinensanteri@gmail.com**
 
 - ⚡ Fun fact: I can also paint 🎨
 
