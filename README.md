@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm @Sahe00</h1>
-<h3 align="center">A passionate CSE student from Finland</h3>
+<h3 align="center">CSE Student | Applied Computing</h3>
 
 - 👀 Logic is just a theory until the compiler weighs in with its own opinion.
 
