@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm @Sahe00</h1>
 <h3 align="center">A passionate CSE student from Finland</h3>
 
-- 👀 I'm interested in programming and everything tech
+- 👀 Logic is just a theory until the compiler weighs in with its own opinion.
 
 - 🌱 I’m currently learning **Full-stack development, React, TypeScript, JavaScript and more!**
 
